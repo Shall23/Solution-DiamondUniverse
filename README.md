@@ -1,0 +1,2 @@
+# Solution-DiamondUniverse
+Для практикума
